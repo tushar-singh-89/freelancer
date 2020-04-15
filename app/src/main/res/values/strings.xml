@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Freelancer Street</string>
+    <string name="signout">SignOut</string>
+    <string name="settings">Settings</string>
+</resources>

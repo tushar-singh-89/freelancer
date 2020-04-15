@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "75352729652",
+    "firebase_url": "https://freelancerstreet.firebaseio.com",
+    "project_id": "freelancerstreet",
+    "storage_bucket": "freelancerstreet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75352729652:android:f6e618b35f8484d75d4261",
+        "android_client_info": {
+          "package_name": "com.divij.freelancerstreet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75352729652-5u5fqp60cud6kj8mhgeqhtub8so1cqaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divij.freelancerstreet",
+            "certificate_hash": "06117d88925ae26285857901beaf80b7cf691868"
+          }
+        },
+        {
+          "client_id": "75352729652-m2jhjaemn5korbee6vv6tkqnme2sl27t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLlQi0ejNMOtpF7hkZUCeXee8KxpHKhD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75352729652-m2jhjaemn5korbee6vv6tkqnme2sl27t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
